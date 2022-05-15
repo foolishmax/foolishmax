@@ -1,7 +1,5 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="./public/foolishmax.jpg" width=100 />
-
 # Hi, this is foolishmax :wave:
 
 ## Introduction :raised_hands:
